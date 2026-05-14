@@ -172,7 +172,7 @@ Developer hoàn = new Developer()
 
 <br/><br/>
 
-> 💼 **Đang tìm kiếm cơ hội Internship / Junior Backend Developer**
+> 💼 **Đang tìm kiếm cơ hội Internship / Fresher Backend Developer**
 >
 > Nếu bạn có cơ hội phù hợp hoặc chỉ muốn nói chuyện về backend, hãy liên hệ với mình! 🙌
 
