@@ -93,11 +93,7 @@ Developer hoàn = new Developer()
 <div align="center">
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoandevv&theme=radical&hide_border=true&background=0d1117&ring=E94560&fire=E94560&currStreakLabel=E94560&sideLabels=E94560&dates=AAAAAA"/>
-
-</div>
-
-<div align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hoandevv&theme=radical&hide_border=true&background=0d1117&ring=E94560&fire=E94560&currStreakLabel=E94560&sideLabels=E94560&dates=AAAAAA" /><div align="center">
 <br/>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoandevv&theme=react-dark&hide_border=true&area=true&area_color=E94560&color=E94560&line=E94560&point=FFFFFF&bg_color=0d1117"/>
